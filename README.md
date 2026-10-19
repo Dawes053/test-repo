@@ -2,3 +2,7 @@
 Hello! Ezt én csináltam
 
 * Dawes - Mindent ami UI és API autoamtizálni szeretném! *
+
+# Céljaim
+
+* Nekem céljaim vannak! *
