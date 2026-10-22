@@ -1,0 +1,14 @@
+# Dependecies
+node_modules/
+
+# Secrets
+
+.env
+
+#Logs
+*.Logs
+
+#Playwright
+
+test-results/
+playwright-report/
