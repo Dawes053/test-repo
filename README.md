@@ -6,3 +6,7 @@ Hello! Ezt én csináltam
 # Céljaim
 
 * Nekem céljaim vannak! *
+
+* #Skills
+
+hello
